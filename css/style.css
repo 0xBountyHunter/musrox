@@ -1,0 +1,16 @@
+body {
+    font-family: "Poppins", "Roboto", sans-serif;
+    max-width: 600px;
+    background-color: #f4f7fc;
+    color: #0E1A28;
+    font-size: 20px;
+}
+
+.logo {
+    max-width: 100px;
+}
+
+.link {
+    text-decoration: none;
+    color: #4122DF;
+}
